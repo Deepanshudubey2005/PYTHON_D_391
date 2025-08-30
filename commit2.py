@@ -6,3 +6,7 @@ print(x,y,z)
 x="hey"
 y="man"
 print(x + y)
+g="calm"
+def myfunc():
+    print("Keep yourself"+ g)
+myfunc()
