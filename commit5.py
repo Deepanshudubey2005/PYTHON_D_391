@@ -7,7 +7,8 @@ def myfun() :
     if myfun():
         print("Yes!")
     else:
-        print("No!")    
+        print("No!")   
+print(5)       
 
 
 
